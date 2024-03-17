@@ -10,6 +10,8 @@ using namespace std;
 
 int main()
 {
+	//Hom nay minh test github
+	
 	int sizeDG = 0, index = 0;
 	int lua_chon;
 	DocGia a[100];
